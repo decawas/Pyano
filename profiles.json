@@ -1,0 +1,17 @@
+{
+    "profiles": [
+        {
+            "example_profile": [
+                {
+                    "1": {"mo": "to", "x": "r", "y": "none"},
+                    "2": {"mo": "ta", "x": "shift","y": "none"},
+                    "3": {"mo": "lcl", "x": "a","y": "none"},
+                    "4": {"mo": "rcl", "x": "w", "y": "none"},
+                    "5": {"mo": "sc", "x": "s", "y": "none"},
+                    "6": {"mo": "mv", "x": "d", "y": "none"},
+                    "7": {"mo": "mu", "x": "q", "y": "none"}
+                }
+            ]
+        }
+    ]
+}
