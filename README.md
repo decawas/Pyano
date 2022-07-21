@@ -11,5 +11,5 @@ Then open the directory in a terminal "python ./cursle.py"<br />
 
 ## Requirements:
 
-PyAutoGui, pip install pyautogui
+PyAutoGui, pip install pyautogui<br />
 Pygame, pip install pygame
