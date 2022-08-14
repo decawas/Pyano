@@ -1,8 +1,10 @@
 # Pyano
 
-Pyano is a terminal application that uses Pygame and PyAudtoGui to allow you to interact with your computer using a MIDI keyboard
+Pyano is a python program which uses Pygame and PyAutoGui to convert midi input into a keyboard/mouse input
 
-__THIS PROJECT IS MOSTLY DEPRICATED AND I PROBABLY WONT BE MAKING ANY UPDATES ANY TIME SOON__
+## Deprication:
+
+i finished this project a long time ago, i originally made this for a [youtube video](https://www.youtube.com/watch?v=zwiHAlFt4aw) in which i said that i would release the code. however that was a long time ago and i have no plans to work on this anymore 
 
 ## To run:
 

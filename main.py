@@ -21,7 +21,7 @@ def mouse(data, profile, keynum, velocity):
     
     return x, y
 
-profile = "minecraft"
+profile = "example_profile"
 f = open("profiles.json")
 data = json.loads(f.read())
 f.close
